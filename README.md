@@ -1,9 +1,7 @@
 # INFO2201_Summer25_version Laurie
 ### This is for everyone to get familiar with this system and for us to hae one to break and have fun with
 
-<<<<<<< HEAD
-ayooo new version 
-New Branch edition 
+
 
 =======
 >>>>>>> 80ce1765b0768cd34a469874dc33bd3bbcf866e1
